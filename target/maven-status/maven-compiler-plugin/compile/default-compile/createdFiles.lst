@@ -1,0 +1,17 @@
+dk\bimulu\library\bimululib\utils\text\Center.class
+dk\bimulu\library\bimululib\menu\MenuUtility.class
+dk\bimulu\library\bimululib\utils\time\Time.class
+dk\bimulu\library\bimululib\bungee\BimuluBungee.class
+dk\bimulu\library\bimululib\utils\general\ColorTranslator.class
+dk\bimulu\library\bimululib\files\Config.class
+dk\bimulu\library\bimululib\menu\PaginatedMenu.class
+dk\bimulu\library\bimululib\utils\items\ItemBuilder.class
+dk\bimulu\library\bimululib\utils\date\DateUtils.class
+dk\bimulu\library\bimululib\plugin\BimuluPlugin.class
+dk\bimulu\library\bimululib\utils\strings\StringUtils.class
+dk\bimulu\library\bimululib\utils\text\DefaultFontInfo.class
+dk\bimulu\library\bimululib\plugin\Hook.class
+dk\bimulu\library\bimululib\utils\numbers\NumberUtils.class
+dk\bimulu\library\bimululib\Main.class
+dk\bimulu\library\bimululib\menu\menulistener\MenuListener.class
+dk\bimulu\library\bimululib\menu\Menu.class

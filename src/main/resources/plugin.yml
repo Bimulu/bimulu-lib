@@ -1,0 +1,4 @@
+name: bimulu-lib
+version: '${project.version}'
+main: dk.bimulu.library.bimululib.Main
+api-version: '1.20'
