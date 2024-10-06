@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/bimulu-lib.iml" filepath="$PROJECT_DIR$/bimulu-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bimululib.iml" filepath="$PROJECT_DIR$/bimululib.iml" />
     </modules>
   </component>
 </project>

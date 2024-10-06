@@ -22,7 +22,7 @@ public class Main extends BimuluPlugin {
         Bukkit.getConsoleSender().sendMessage(ColorTranslator.string(" "));
         Bukkit.getConsoleSender().sendMessage(ColorTranslator.string("&a--------------------------------------------&r"));
         Bukkit.getConsoleSender().sendMessage(ColorTranslator.string(" &2bimulu-lib &fer lavet af &eBimulu &fog bliver"));
-        Bukkit.getConsoleSender().sendMessage(ColorTranslator.string(" &fprimært brugt til plugins lavet til &cBlocklandia"));
+        Bukkit.getConsoleSender().sendMessage(ColorTranslator.string(" &fbrugt til alle Bimulu's plugins!"));
         Bukkit.getConsoleSender().sendMessage(ColorTranslator.string("&a--------------------------------------------&r"));
         Bukkit.getConsoleSender().sendMessage(ColorTranslator.string(" "));
     }
